@@ -2,7 +2,7 @@
 - 👀 I’m interested in Math, Nonlinear Analysis, Casual Games Dev, ML and DataScience
 - 🌱 I’m currently learning ML, Python and DataScience
 - 💞️ I’m looking to collaborate on Math Tasks
-- 📫 How to reach me: madmath@mail.ru
+- 📫 How to reach me: alextykoun@gmail.com; madmath@mail.ru
 
 <!---
 tykooon/tykooon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
